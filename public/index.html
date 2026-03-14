@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EASA ATPL Quiz Helper</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>EASA ATPL: Вопросы + автоматический ответ</h1>
+      <p>Вставьте вопрос с вариантами ответов, и система определит правильный вариант.</p>
+    </header>
+
+    <main>
+      <section class="input-section">
+        <label for="questionInput">Вставьте вопрос + варианты (по одной строке):</label>
+        <textarea id="questionInput" placeholder="ID вопроса (напр. 031.05 Q0012)\nВопрос\nВариант 1\nВариант 2\nВариант 3\nВариант 4\n\n(можно писать A) / B) / ... — не обязательно)"></textarea>
+        <div class="button-row">
+          <button id="parseBtn" type="button">Добавить в таблицу</button>
+          <button id="clearBtn" type="button">Очистить поле</button>
+          <button id="exportBtn" type="button">Экспорт в Excel</button>
+        </div>
+        <div id="status" aria-live="polite"></div>
+      </section>
+
+      <section class="table-section">
+        <table id="qaTable">
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>Вопрос</th>
+              <th>A</th>
+              <th>B</th>
+              <th>C</th>
+              <th>D</th>
+              <th>Правильный</th>
+              <th>Действия</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </section>
+    </main>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

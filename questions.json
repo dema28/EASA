@@ -1,0 +1,587 @@
+[
+  {
+    "id": "021.09 Part 1 Q0003 :",
+    "question": " Which is a correct definition of static discharger?",
+    "a": "The static discharger is a device fitted to cockpit controls to eliminate the risk of electric shock",
+    "b": "The static discharger is a device in form of the thin wick, which purpose is to disperse electrical charges into atmosphere",
+    "c": "The static discharger is a part of battery which is responsible for discharging it",
+    "d": "The static discharger is a device fitted to the electric system to eliminate the risk of electric shock during maintenance",
+    "correct": "B"
+  },
+  {
+    "id": "021.09 Part 1 Q0014 :",
+    "question": " With regard to Ohm's law, which statement is correct?",
+    "a": "The voltage is inversely proportional to the resistance",
+    "b": "The current is inversely proportional to the voltage",
+    "c": "The current is directly proportional to the resistance",
+    "d": "The current is directly proportional to the voltage",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 1 Q0009 :",
+    "question": " What are the factors affecting resistance?",
+    "a": "Material type only",
+    "b": "Material density and temperature",
+    "c": "Material type, length and cross section area, temperature",
+    "d": "Specific heat capacity and temperature",
+    "correct": "C"
+  },
+  {
+    "id": "021.09 Part 1 Q0008 :",
+    "question": " Which is a correct definition of voltage?",
+    "a": "Electric potential difference, the unit is volt",
+    "b": "Number of electrons passing through a conductor per unit time, unit is volt",
+    "c": "Number of electrons passing through a conductor per unit time, unit is ampere",
+    "d": "Electric potential difference, the unit is ampere",
+    "correct": "A"
+  },
+  {
+    "id": "021.09 Part 5 Q0012 :",
+    "question": "The compound wound DC motor is used in ____.",
+    "a": "starter motors",
+    "b": "electric actuators",
+    "c": "hydraulic pumps",
+    "d": "landing gear extension systems",
+    "correct": "C"
+  },
+  {
+    "id": "021.09 Part 5 Q0006 :",
+    "question": " In a series wound DC motor the armature and the field coil are connected ____.",
+    "a": "in series",
+    "b": "y a separate circuit",
+    "c": "No other answer is correct",
+    "d": "in parallel",
+    "correct": "A"
+  },
+  {
+    "id": "021.09 Part 5 Q0009 :",
+    "question": " In the shunt wound DC motor the speed ____.",
+    "a": "epends on the loads applied",
+    "b": "epends on the current in the armature",
+    "c": "is almost constant",
+    "d": "epends on the torque",
+    "correct": "C"
+  },
+  {
+    "id": "021.09 Part 5 Q0003 :",
+    "question": " Which statement about a DC motor is true?",
+    "a": "In a DC motor the coil and the armature are stator and the permanent magnet is a rotor",
+    "b": "No answer is correct",
+    "c": "In a DC motor the permanent magnet is a stator and the coil and the armature are rotor.",
+    "d": "In DC motor the windings are a stator and the commutator is a rotor",
+    "correct": "C"
+  },
+  {
+    "id": "021.09 Part 5 Q0011 :",
+    "question": "The compound wound DC motor is characterised by ____.",
+    "a": "low torque during start and constant speed",
+    "b": "low torque during start and non-constant speed",
+    "c": "high torque during start and constant speed",
+    "d": "high torque during start and non-constant speed",
+    "correct": "C"
+  },
+  {
+    "id": "021.09 Part 5 Q0002 :",
+    "question": " Which of the following are parts of the DC motor? I – Permanent magnet, II – Coil of wire, III – Split ring commutator, IV – Rectifier",
+    "a": "I, II and IV",
+    "b": "II, III and IV",
+    "c": "I, II, III and IV",
+    "d": "I, II and III",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 5 Q0016 :",
+    "question": " In the induction AC motor ____.",
+    "a": "the rotor is supplied from a power source",
+    "b": "the current is induced in the stator",
+    "c": "the stator is supplied from a power source",
+    "d": "the current is induced in the rotor",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 4 Q0011 :",
+    "question": " What is the purpose of the load shedding?",
+    "a": "To assure even output loads from two generators connected in parallel",
+    "b": "To maintain constant output current from the generator",
+    "c": "To provide constant output frequency from the generator",
+    "d": "To prevent overloading of the remaining power source in case of one generator failure",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 4 Q0001 :",
+    "question": " What is a busbar (bus)?",
+    "a": "busbar is a device used to transform AC into DC",
+    "b": "busbar is a part of the AC generator responsible for constant frequency output",
+    "c": "busbar is a type of circuit breaker",
+    "d": "busbar is a distribution point where high current from the generators is passed to other systems",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 4 Q0006 :",
+    "question": " When is the maintenance bus energised?",
+    "a": "In flight in case of emergencies",
+    "b": "In flight only when quick maintenance must be conducted",
+    "c": "On the ground only, when the external power is supplied",
+    "d": "In flight and on the ground",
+    "correct": "C"
+  },
+  {
+    "id": "021.09 Part 4 Q0007 :",
+    "question": "Which of the following systems are supplied by the external power when the aircraft is on the ground? Select the most complete answer.",
+    "a": "ll answers are correct",
+    "b": "Passenger compartment, lavatory, entrance and galley lighting",
+    "c": "Hydraulic pump",
+    "d": "Navigation lights",
+    "correct": "A"
+  },
+  {
+    "id": "021.09 Part 3 Q0022 :",
+    "question": " What is the input and output of an inverter?",
+    "a": "Input AC, output AC at different voltage",
+    "b": "Input DC, output DC at different voltage",
+    "c": "Input DC, output AC",
+    "d": "Input AC, output DC",
+    "correct": "C"
+  },
+  {
+    "id": "021.09 Part 3 Q0016 :",
+    "question": " What are the main reasons for CSD (Constant Speed Drive) disconnection during flight?",
+    "a": "Too low power supply og the generator",
+    "b": "Too high oil temperature or too low oil pressure",
+    "c": "Too low power demand in the system",
+    "d": "Slight output voltage fluctuations",
+    "correct": "B"
+  },
+  {
+    "id": "021.09 Part 3 Q0011 :",
+    "question": " How is a device that produces variable frequency AC called?",
+    "a": "Constant Speed Drive",
+    "b": "rectifier",
+    "c": "frequeny wild generator/alternator",
+    "d": "n inverter",
+    "correct": "C"
+  },
+  {
+    "id": "021.09 Part 3 Q0023 :",
+    "question": " Which system or device is needed for DC systems to be powered by AC generators?",
+    "a": "atteries",
+    "b": "SD (Constant Speed Drive)",
+    "c": "Transformer rectifier units (TRU)",
+    "d": "Inverters",
+    "correct": "C"
+  },
+  {
+    "id": "021.09 Part 3 Q0002 :",
+    "question": " What parts belong to a simple DC generator?",
+    "a": "Stationary magnet, rotating armature, commutator, carbon brushes",
+    "b": "Stationary magnet, rotating armature, rectifier",
+    "c": "Rotating magnet, stationary armature, rectifier",
+    "d": "Rotating magnet, stationary armature ,commutator, carbon brushes",
+    "correct": "A"
+  },
+  {
+    "id": "021.09 Part 3 Q0018 :",
+    "question": " What is the separation angle between windings in a three-phase alternator?",
+    "a": "270°",
+    "b": "360°",
+    "c": "90°",
+    "d": "120°",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 3 Q0021 :",
+    "question": " What is the input and output of a rectifier?",
+    "a": "Input AC, output DC",
+    "b": "Input AC, output AC at different voltage",
+    "c": "Input DC, output AC",
+    "d": "Input DC, output AC at different voltage",
+    "correct": "A"
+  },
+  {
+    "id": "021.09 Part 3 Q0014 :",
+    "question": " What parameters in a Constant Speed Drive system are monitored?",
+    "a": "Shaft speed",
+    "b": "Generator output voltage",
+    "c": "Oil temperature and quality",
+    "d": "Oil temperature and pressure",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 2 Q0002 :",
+    "question": " Assuming we have three battery cells connected in parallel, each with 3 V cell voltage and capacity of 5 Ah, what will be the total voltage and capacity?",
+    "a": "Total voltage 9V, total capacity 5 Ah",
+    "b": "Total voltage 3V, total capacity 5 Ah",
+    "c": "Total voltage 9V, total capacity 15 Ah",
+    "d": "total voltage 3V, total capacity 15 Ah",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 2 Q0001 :",
+    "question": " Assuming we have two battery cells connected in series, each with 3 V cell voltage and capacity of 5 Ah, what will be the total voltage and capacity?",
+    "a": "Total voltage 6V, total capacity 10 Ah",
+    "b": "Total voltage 6V, total capacity 5 Ah",
+    "c": "Total voltage 3V, total capacity 5 Ah",
+    "d": "Total voltage 3V, total capacity 10 Ah",
+    "correct": "B"
+  },
+  {
+    "id": "021.09 Part 2 Q0009 :",
+    "question": " What current can battery with a capacity of 10 Ah produce?",
+    "a": "Maximum current for 10 hours",
+    "b": "10 Amperes for 24 hours",
+    "c": "10 amperes for 10 hours",
+    "d": "10 amperes for 1 hour",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 2 Q0003 :",
+    "question": " What is the cell voltage of the fully-loaded lead-acid battery?",
+    "a": "2 V",
+    "b": "1.2 V",
+    "c": "4 V",
+    "d": "3.5 V",
+    "correct": "A"
+  },
+  {
+    "id": "021.09 Part 2 Q0007 :",
+    "question": " What is the capacity of a battery cell?",
+    "a": "The capacity of the battery cell is the electromotive force generated by the battery",
+    "b": "The capacity of the battery cell is a current that the battery can provide within a given time",
+    "c": "The capacity of the battery cell is the number of cycles of charging the battery can withstand",
+    "d": "The capacity of the battery cell is the volume of the battery cell",
+    "correct": "B"
+  },
+  {
+    "id": "021.09 Part 2 Q0006 :",
+    "question": " What is the cell voltage of a battery cell?",
+    "a": "The cell voltage of the battery is the current the battery can produce within an hour",
+    "b": "The cell voltage of the battery is the resistance of the battery",
+    "c": "The cell voltage of the battery is the number of charging cycles the battery can withstand",
+    "d": "The cell voltage of the battery cell is an electromotive force generated by one battery cell",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 2 Q0010 :",
+    "question": " What is the purpose of the batteries on aircraft?",
+    "a": "atteries supply electronic flight instruments",
+    "b": "atteries provide electric power during normal operation",
+    "c": "atteries provide AC for some systems",
+    "d": "atteries provide electric power in emergencies",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 2 Q0004 :",
+    "question": "What is the cell voltage of the fully-loaded nickel-cadmium battery?",
+    "a": "3.5 V",
+    "b": "4 V",
+    "c": "2 V",
+    "d": "1.2 V",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 1 Q0023 :",
+    "question": " In what unit is the fuse rating given?",
+    "a": "mperes",
+    "b": "Volts",
+    "c": "Hertz",
+    "d": "Ohms",
+    "correct": "A"
+  },
+  {
+    "id": "021.09 Part 1 Q0021 :",
+    "question": " With regard to Joule-Lenz law, which statement about the heat dissipated on a conductor is correct?",
+    "a": "The heat dissipated on a conductor is a product of resistance and the square of the current",
+    "b": "The heat dissipated on a conductor is directly proportional to the current",
+    "c": "The heat dissipated on a conductor is inversely proportional to the current",
+    "d": "The heat dissipated on a conductor is a product of voltage and current",
+    "correct": "A"
+  },
+  {
+    "id": "021.09 Part 1 Q0032 :",
+    "question": " Which statements are true about a logic gate?",
+    "a": "logic gate can have multiple outputs, can have only one input, performs Boolean functions, assumes values in the decimal numeral system",
+    "b": "logic gate can have multiple inputs, an have only one output, performs Boolean functions, assumes values in the binary system",
+    "c": "Second [s]",
+    "d": "logic gate can have multiple outputs, can have only one input, performs Boolean functions, assumes values in the binary system",
+    "correct": "B"
+  },
+  {
+    "id": "021.09 Part 1 Q0016 :",
+    "question": " If the resistor length increases, how will its resistance change?",
+    "a": "The resistance will increase",
+    "b": "The resistance will not change",
+    "c": "The resistance can not be determined",
+    "d": "The resistance will decrease",
+    "correct": "A"
+  },
+  {
+    "id": "021.09 Part 1 Q0003 :",
+    "question": " Which is a correct definition of static discharger?",
+    "a": "The static discharger is a device in form of the thin wick, which purpose is to disperse electrical charges into atmosphere",
+    "b": "The static discharger is a device fitted to the electric system to eliminate the risk of electric shock during maintenance",
+    "c": "The static discharger is a part of battery which is responsible for discharging it",
+    "d": "The static discharger is a device fitted to cockpit controls to eliminate the risk of electric shock",
+    "correct": "A"
+  },
+  {
+    "id": "021.09 Part 1 Q0019 :",
+    "question": " How can the strength of the magnetic field generated by a current flowing through a solenoid be increased?",
+    "a": "y decreasing number of turns",
+    "b": "y increasing number of turns, inserting a metal core",
+    "c": "y decreasing number of turns, inserting the metal core",
+    "d": "No answer is correct",
+    "correct": "B"
+  },
+  {
+    "id": "021.09 Part 1 Q0001 :",
+    "question": " What are the causes of static electricity build-up during the flight? Select the most complete answer.",
+    "a": "Rain friction",
+    "b": "ir friction",
+    "c": "ll answers are correct",
+    "d": "loud friction",
+    "correct": "C"
+  },
+  {
+    "id": "021.09 Part 1 Q0029 :",
+    "question": " With regard to the semiconductors, which answer is true about their resistance?",
+    "a": "The resistance of a semiconductor is higher than insulators' resistance",
+    "b": "The resistance of a semiconductor decreases with temperature",
+    "c": "The resistance of a semiconductor increases with temperature",
+    "d": "The resistance of a semiconductor is constant",
+    "correct": "B"
+  },
+  {
+    "id": "021.09 Part 1 Q0010 :",
+    "question": " What will be the total circuit resistance of resistors connected in series?",
+    "a": "The reciprocal of the sum of the individual resistances",
+    "b": "The sum of the individual resistances",
+    "c": "The product of the individual resistances divided by the sum of the individual resistances",
+    "d": "The sum of the reciprocals of the individual resistances",
+    "correct": "B"
+  },
+  {
+    "id": "021.09 Part 1 Q0020 :",
+    "question": " What is the correct definition of a relay?",
+    "a": "The relay is a device used to change AC voltage",
+    "b": "The relay is a remotely controlled electromagnetic switch with sliding core",
+    "c": "The relay is a device used to cover AC into DC",
+    "d": "The relay is a remotely controlled electromagnetic switch with a fixed core",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 5 Q0008 :",
+    "question": "The typical applications of a series wound DC motor are ____.",
+    "a": "starter motors, fans and centrifugal pumps",
+    "b": "fans, centrifugal pumps and motor generator units",
+    "c": "electric actuators, starter motors and landing gear extension systems",
+    "d": "electric actuators and hydraulic pumps",
+    "correct": "C"
+  },
+  {
+    "id": "021.09 Part 5 Q0001 :",
+    "question": " The electrical motor converts _____.",
+    "a": "mechanical energy into electrical energy",
+    "b": "mechanical energy into chemical energy",
+    "c": "electrical energy into chemical energy",
+    "d": "electrical energy into mechanical energy",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 5 Q0004 :",
+    "question": " Which statement describes the correct application of Fleming's left-hand rule for electric motors?",
+    "a": "lign the thumb with the current direction, the first finger with magnetic field direction and the second finger will point the force direction.",
+    "b": "lign the second finger with the current direction, the first finger with magnetic field direction and the thumb will point the force direction",
+    "c": "lign the thumb with the current direction, the second finger with magnetic field direction and the first finger will point the force direction.",
+    "d": "lign the first finger with the current direction, the second finger with magnetic field direction and the thumb will point the force direction",
+    "correct": "B"
+  },
+  {
+    "id": "021.09 Part 5 Q0017 :",
+    "question": " With reference to an induction AC motor, what is a slip speed?",
+    "a": "The slip speed is the difference between the speed of the magnetic field's rotation and the rotor speed",
+    "b": "The slip speed is the speed of the magnetic field's rotation",
+    "c": "The slip speed is the minimum speed of the motor to produce any power",
+    "d": "The slip speed is the speed at which the greatest power is generated",
+    "correct": "A"
+  },
+  {
+    "id": "021.09 Part 4 Q0003 :",
+    "question": " In what type of a busbar system each generator supplies its busbar?",
+    "a": "In a serial busbar system",
+    "b": "In a parallel busbar system",
+    "c": "Such a system does not exist",
+    "d": "In a split busbar system",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 4 Q0008 :",
+    "question": " Which is the correct order of the power sources during normal flight for a typical commercial aircraft, form the highest to the lowest priority?",
+    "a": "atteries, emergency generator, APU generator, main generators",
+    "b": "Main generators, APU generator, emergency generator, batteries",
+    "c": "Main generators, external power, APU generator, batteries",
+    "d": "Main generators, APU geenrator, external power",
+    "correct": "B"
+  },
+  {
+    "id": "021.09 Part 4 Q0010 :",
+    "question": " Which of the following parameters must be the same to connect two generators in parallel to one busbar? I - Output voltage, II - Output current, III - Output frequency, IV - Output power",
+    "a": "I, II, III and IV",
+    "b": "II, III and IV",
+    "c": "I and III",
+    "d": "II and IV",
+    "correct": "C"
+  },
+  {
+    "id": "021.09 Part 4 Q0004 :",
+    "question": " On large aircraft what is the main source of the electrical power?",
+    "a": "C generators",
+    "b": "PU generator",
+    "c": "atteries",
+    "d": "C generators",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 4 Q0016 :",
+    "question": "What is the purpose of the CGU (Generator Control Unit)? Select the most complete answer.",
+    "a": "ll answers are correct",
+    "b": "Frequency regulation",
+    "c": "Overvoltage and overexcitation protection",
+    "d": "Output voltage regulation",
+    "correct": "A"
+  },
+  {
+    "id": "021.09 Part 4 Q0005 :",
+    "question": " How is DC obtained in normal operation in an aircraft where AC generators are the primary source of the electrical power?",
+    "a": "From the batteries only",
+    "b": "y passing AC through TRU (Transformer Rectifier Unit)",
+    "c": "y the APU generator",
+    "d": "y the maintenance bus",
+    "correct": "B"
+  },
+  {
+    "id": "021.09 Part 4 Q0008 :",
+    "question": " Which is the correct order of the power sources during normal flight for a typical commercial aircraft, form the highest to the lowest priority?",
+    "a": "atteries, emergency generator, APU generator, main generators",
+    "b": "Main generators, APU generator, emergency generator, batteries",
+    "c": "Main generators, APU geenrator, external power",
+    "d": "Main generators, external power, APU generator, batteries",
+    "correct": "B"
+  },
+  {
+    "id": "021.09 Part 4 Q0009 :",
+    "question": "Which is the correct order of the power sources on the ground for a typical commercial aircraft if the external power switch set to OFF, form the highest to the lowest priority?",
+    "a": "External power, APU generator, batteries",
+    "b": "No answer is correct",
+    "c": "Main generators, external power, APU generator",
+    "d": "Main generators, APU generator, external power",
+    "correct": "D"
+  },
+  {
+    "id": "022.02 Q0009 : ",
+    "question": "Which systems require angle of attack measurement input?",
+    "a": "Air Data Computer, TCAS, GPS",
+    "b": "GPS, INS, Air Data Computer",
+    "c": "TCAS, Flight Envelope Protection System, GPS",
+    "d": "ir Data Computer, Flight Envelope Protection System, Stall Warning /Protection System",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 3 Q0013 :",
+    "question": "What are the emergency power source for the alternators or large aircraft?",
+    "a": "PU, ADC, GCU, IDG, RAT",
+    "b": "PU, RAT",
+    "c": "PU, GCU, IDG, RAT",
+    "d": "IDG, RAT",
+    "correct": "B"
+  },
+  {
+    "id": "021.09 Part 3 Q0020 :",
+    "question": " If the output voltage of the transformer is supposed to be higher than the input voltage, what should be the number of secondary windings?",
+    "a": "Greater than the primary windings",
+    "b": "The same as the primary windings",
+    "c": "Two times smaller than the primary windings",
+    "d": "Smaller than the primary windings",
+    "correct": "A"
+  },
+  {
+    "id": "021.09 Part 3 Q0003 :",
+    "question": " What parts belong to a DC alternator?",
+    "a": "Stationary magnet, rotating armature, commutator, carbon brushes",
+    "b": "STationary magnet, rotating armature, rectifier",
+    "c": "Rotating magnet, stationary armature ,commutator, carbon brushes",
+    "d": "Rotating magnet, stationary armature, rectifier",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 3 Q0019 :",
+    "question": " What device enables changing AC voltage?",
+    "a": "n inverter",
+    "b": "transformer",
+    "c": "diode",
+    "d": "rectifier",
+    "correct": "B"
+  },
+  {
+    "id": "021.09 Part 3 Q0004 :",
+    "question": " What device converts AC into DC in a DC alternator?",
+    "a": "Relay",
+    "b": "Inverter",
+    "c": "Rectifier",
+    "d": "Transformer",
+    "correct": "C"
+  },
+  {
+    "id": "021.09 Part 2 Q0008 :",
+    "question": " What is the unit of battery capacity?",
+    "a": "mpere [A]",
+    "b": "mpere / Volt [A/V]",
+    "c": "Watt [W]",
+    "d": "mpere hour [Ah]",
+    "correct": "D"
+  },
+  {
+    "id": "022.02 Q0009 : ",
+    "question": "Which systems require angle of attack measurement input?",
+    "a": "ir Data Computer, TCAS, GPS",
+    "b": "GPS, INS, Air Data Computer",
+    "c": "TCAS, Flight Envelope Protection System, GPS",
+    "d": "ir Data Computer, Flight Envelope Protection System, Stall Warning /Protection System",
+    "correct": "D"
+  },
+  {
+    "id": "022.02 Q0009 : ",
+    "question": "Which systems require angle of attack measurement input?",
+    "a": "ir Data Computer, TCAS, GPS",
+    "b": "GPS, INS, Air Data Computer",
+    "c": "TCAS, Flight Envelope Protection System, GPS",
+    "d": "ir Data Computer, Flight Envelope Protection System, Stall Warning /Protection System",
+    "correct": "D"
+  },
+  {
+    "id": "021.09 Part 2 Q0005 :",
+    "question": "Which types of batteries are susceptible to thermal runaway? Select the most complete answer.",
+    "a": "Lead-acid, lithium-ion, lithium-polymer",
+    "b": "Lithium-ion, lithium-polymer",
+    "c": "Lead-acid, Nickel-cadmium, lithium-ion, lithium-polymer",
+    "d": "Nickel-cadmium, lithium-ion, lithium-polymer",
+    "correct": "D"
+  },
+  {
+    "id": "022.01 Q0016 :",
+    "question": " What is the effect of the pitot tube is blockage with clear drain hole?",
+    "a": "Static port automatically redirects pressure to both sides of the diaphragm",
+    "b": "rain hole helps to clear the blockage",
+    "c": "iaphragm bursts due to high pressure in the blocked side of the diaphragm",
+    "d": "Pressure equalises between two sides of the diaphragm",
+    "correct": "D"
+  },
+  {
+    "id": "022.01 Q0050 : ",
+    "question": "2693 rpm converted to rad/s give _____.",
+    "a": "293.64 rad/s",
+    "b": "141 rad/s",
+    "c": "312 rad/s",
+    "d": "+282.01 rad/s",
+    "correct": "D"
+  }
+]
