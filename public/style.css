@@ -139,6 +139,29 @@ td.actions {
   width: 120px;
 }
 
+/* Review status badges */
+.status-verified {
+  color: #0f5132;
+  font-weight: 700;
+}
+.status-ai-inferred {
+  color: #0c4a6e;
+  font-weight: 700;
+}
+.status-needs-review {
+  color: #b91c1c;
+  font-weight: 700;
+}
+
+#evidencePanel {
+  border: 1px solid rgba(15, 23, 42, 0.12);
+  background: #f9fafb;
+  padding: 12px;
+  border-radius: 10px;
+  max-height: 260px;
+  overflow: auto;
+}
+
 .small-btn {
   font-size: 0.85rem;
   padding: 6px 10px;

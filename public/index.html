@@ -15,13 +15,24 @@
     <main>
       <section class="input-section">
         <label for="questionInput">Вставьте вопрос + варианты (по одной строке):</label>
-        <textarea id="questionInput" placeholder="ID вопроса (напр. 031.05 Q0012)\nВопрос\nВариант 1\nВариант 2\nВариант 3\nВариант 4\n\n(можно писать A) / B) / ... — не обязательно)"></textarea>
+        <textarea
+          id="questionInput"
+          placeholder="ID вопроса (напр. 031.05 Q0012)\nВопрос\nВариант 1\nВариант 2\nВариант 3\nВариант 4\n\nЧтобы отметить правильный вариант, поставьте `+` в начале строки (например: + Вариант 2). Если `+` не указан — ответ определит AI."
+        ></textarea>
         <div class="button-row">
           <button id="parseBtn" type="button">Добавить в таблицу</button>
           <button id="clearBtn" type="button">Очистить поле</button>
           <button id="exportBtn" type="button">Экспорт в Excel</button>
         </div>
         <div id="status" aria-live="polite"></div>
+      </section>
+
+      <section class="table-section" id="resultCard" style="display: none;">
+        <h2 style="margin: 0 0 10px; font-size: 1.05rem;">Результат подстановки</h2>
+        <div id="resultSummary" style="white-space: pre-wrap; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.9rem;"></div>
+        <h3 style="margin: 14px 0 10px; font-size: 0.98rem;">Похожие известные вопросы</h3>
+        <div id="resultMatches" style="white-space: pre-wrap; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.88rem;"></div>
+        <div style="margin-top: 12px;" id="resultActions"></div>
       </section>
 
       <section class="table-section">
@@ -35,11 +46,21 @@
               <th>C</th>
               <th>D</th>
               <th>Правильный</th>
+              <th>Confidence</th>
+              <th>Статус</th>
+              <th>Evidence</th>
+              <th>Предмет</th>
+              <th>Тема</th>
               <th>Действия</th>
             </tr>
           </thead>
           <tbody></tbody>
         </table>
+      </section>
+
+      <section class="table-section" id="evidence-section">
+        <h2 style="margin: 0 0 10px; font-size: 1.05rem;">Панель объяснения</h2>
+        <div id="evidencePanel" style="white-space: pre-wrap; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.9rem;"></div>
       </section>
     </main>
 
